@@ -1,1 +1,1 @@
-konfilkt zad 6
+konfilkt zad 6 - rozwiazany
