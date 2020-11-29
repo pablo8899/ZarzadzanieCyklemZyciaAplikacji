@@ -1,1 +1,1 @@
-test zadania 5
+konfilkt zad 6
